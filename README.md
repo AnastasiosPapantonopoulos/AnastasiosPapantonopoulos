@@ -12,4 +12,6 @@ Currently working with Xander Talent as a Software Engineering Consultant.
 
 
 
- You can reach me at anastasios.papantonopoulos@xandertalent.com 
+ You can reach me at anastasios.papantonopoulos@xandertalent.com  
+
+ [Connect with me on LinkedIn]( https://uk.linkedin.com/in/anastasios-papantonopoulos-287658192)
