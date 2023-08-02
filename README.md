@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=anastasiospapantonopoulos)
 #   <p align="center">  Hey There 🖐️ </p>
-# I'm Anastasios Papantonopoulos, a Junior Software Developer
+#  <p align="center">I'm Anastasios Papantonopoulos, a Junior Software Developer </p>
 
 ![LinkedIn Software   Data Engineering](https://github.com/AnastasiosPapantonopoulos/AnastasiosPapantonopoulos/assets/141125769/d176aa0a-a79c-45be-a77b-b0834660ec4b)
 
