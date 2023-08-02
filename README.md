@@ -9,6 +9,4 @@ Currently working with Xander Talent as a Software Engineering Consultant.
 
 ![LinkedIn Software   Data Engineering](https://github.com/AnastasiosPapantonopoulos/AnastasiosPapantonopoulos/assets/141125769/d176aa0a-a79c-45be-a77b-b0834660ec4b)
 
-
-![e-mail_1f4e7](https://github.com/AnastasiosPapantonopoulos/AnastasiosPapantonopoulos/assets/141125769/f29e21bb-e607-474c-862e-831e76677045)
  You can reach me at anastasios.papantonopoulos@xandertalent.com 
