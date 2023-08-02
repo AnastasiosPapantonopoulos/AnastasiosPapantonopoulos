@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=anastasiospapantonopoulos)
-#   <p style="text-align: center;">  Hey There 🖐️ </p>
+#   <p align="center">  Hey There 🖐️ </p>
 # I'm Anastasios Papantonopoulos, a Junior Software Developer
 
 ![LinkedIn Software   Data Engineering](https://github.com/AnastasiosPapantonopoulos/AnastasiosPapantonopoulos/assets/141125769/d176aa0a-a79c-45be-a77b-b0834660ec4b)
