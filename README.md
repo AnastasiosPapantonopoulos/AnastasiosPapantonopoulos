@@ -4,7 +4,7 @@
 
 ![LinkedIn Software   Data Engineering](https://github.com/AnastasiosPapantonopoulos/AnastasiosPapantonopoulos/assets/141125769/d176aa0a-a79c-45be-a77b-b0834660ec4b)
 
-Currently working with Xander Talent as a Software Engineering Consultant.
+Currently working with Xander Talent as a Quantexa Data Engineer Consultant.
 
 • 📖 Recently graduated Kingston University with a Diploma in Games Programming  
 • 👨🏻‍💻 Have experience with many different programming languages like C#, C++, Java, Scala, Typescript
